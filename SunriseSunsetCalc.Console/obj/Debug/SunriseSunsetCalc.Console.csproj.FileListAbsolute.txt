@@ -1,0 +1,6 @@
+C:\Dev\github\SunriseSunsetCalc\SunriseSunsetCalc\SunriseSunsetCalc.Console\bin\Debug\SunriseSunsetCalc.Console.exe.config
+C:\Dev\github\SunriseSunsetCalc\SunriseSunsetCalc\SunriseSunsetCalc.Console\bin\Debug\SunriseSunsetCalc.Console.exe
+C:\Dev\github\SunriseSunsetCalc\SunriseSunsetCalc\SunriseSunsetCalc.Console\bin\Debug\SunriseSunsetCalc.Console.pdb
+C:\Dev\github\SunriseSunsetCalc\SunriseSunsetCalc\SunriseSunsetCalc.Console\obj\Debug\SunriseSunsetCalc.Console.csprojResolveAssemblyReference.cache
+C:\Dev\github\SunriseSunsetCalc\SunriseSunsetCalc\SunriseSunsetCalc.Console\obj\Debug\SunriseSunsetCalc.Console.exe
+C:\Dev\github\SunriseSunsetCalc\SunriseSunsetCalc\SunriseSunsetCalc.Console\obj\Debug\SunriseSunsetCalc.Console.pdb
